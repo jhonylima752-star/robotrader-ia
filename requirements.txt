@@ -1,0 +1,9 @@
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.4
+python-dotenv>=1.0
+requests>=2.32
+matplotlib>=3.8
+# Optional heavy ML runtime:
+# torch>=2.2
+# MetaTrader5>=5.0.45
